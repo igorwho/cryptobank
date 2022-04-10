@@ -1,5 +1,3 @@
 from django.contrib import admin
 
-# Register your models here.
-
-# Test
+# Register your models here > testing
